@@ -59,6 +59,7 @@ $aboutMe = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.';
                    tabindex="5" <?= $gender === 'female' ? 'checked' : '' ?>>
         </div>
         <hr>
+        <!-- *****************ДЛЯ ДОМАШКИ ПО МАСИВАМ 07***************** -->
         <div>
             <label for="language">Яку з цих мов ви обираєте</label>
             <div>
@@ -69,6 +70,7 @@ $aboutMe = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.';
                 </select>
             </div>
         </div>
+        <!--*****************************************************************-->
         <hr>
         <div>
             <div>Вкажіть ваше хобі</div>
