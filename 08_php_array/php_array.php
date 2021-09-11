@@ -16,6 +16,7 @@ $beforeMinIdUser = prev($users);
 $minId = array_search($minIdUser, $users);
 
 /*
+//вариант 2
 $arrayId = array_keys($users);
 $minId = min($arrayId);
 */
