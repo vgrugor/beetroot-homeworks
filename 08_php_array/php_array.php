@@ -1,10 +1,10 @@
 <?php
 
-$users[3] = ["name" => "Vlad", "email" => "Vlad@test.com"];;
-$users[18] = ["name" => "Igor", "email" => "Igor@test.com"];;
-$users[15] = ["name" => "Ivan", "email" => "Ivan@test.com"];;
-$users[9] = ["name" => "Petro", "email" => "Petro@test.com"];;
-$users[7] = ["name" => "Sergii", "email" => "Sergii@test.com"];;
+$users[3] = ["name" => "Vlad", "email" => "Vlad@test.com"];
+$users[18] = ["name" => "Igor", "email" => "Igor@test.com"];
+$users[15] = ["name" => "Ivan", "email" => "Ivan@test.com"];
+$users[9] = ["name" => "Petro", "email" => "Petro@test.com"];
+$users[7] = ["name" => "Sergii", "email" => "Sergii@test.com"];
 
 krsort($users);
 
