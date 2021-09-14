@@ -1,5 +1,6 @@
 <?php
 
+//масив користувачів
 $users[] = ["name" => "Vlad", "email" => "Vlad@test.com", 'lang' => 'en'];
 $users[] = ["name" => "Igor", "email" => "Igor@test.com", 'lang' => 'ru'];
 $users[] = ["name" => "Anna", "email" => "Ivan@test.com", 'lang' => 'ua'];
