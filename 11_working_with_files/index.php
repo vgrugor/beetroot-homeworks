@@ -65,6 +65,7 @@
         }
         .error{
             color: red;
+            font-size: 20px;
         }
     </style>
 </head>
