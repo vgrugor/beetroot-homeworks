@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Igor",
+    "login": "LogIgor",
+    "password": "i1g2o3",
+    "email": "igor@gmail.com",
+    "language": "uk"
+  },
+  {
+    "name": "Olha",
+    "login": "LogOlha",
+    "password": "1o2l3h4a",
+    "email": "olha@gmail.com",
+    "language": "ru"
+  },
+  {
+    "name": "Anton",
+    "login": "LogAnton",
+    "password": "a1n2t3o4n5",
+    "email": "anton@gmail.com",
+    "language": "en"
+  },
+  {
+    "name": "Julia",
+    "login": "LogJulia",
+    "password": "j1u2l3i4a5",
+    "email": "julia@gmail.com",
+    "language": "en"
+  },
+  {
+    "name": "Olena",
+    "login": "LogOlena",
+    "password": "o1l2e3",
+    "email": "olena@gmail.com",
+    "language": "en"
+  }
+]
