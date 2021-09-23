@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Julia",
+    "login": "logJulia",
+    "password": "12345",
+    "email": "julia@gmail.com",
+    "language": "en"
+  },
+  {
+    "name": "Petro",
+    "login": "logPetro",
+    "password": "54321",
+    "email": "petro@gmail.com",
+    "language": "ua"
+  },
+  {
+    "name": "Egor",
+    "login": "logEgor",
+    "password": "98765",
+    "email": "egor@gmail.com",
+    "language": "ru"
+  },
+  {
+    "name": "Igor",
+    "login": "logIgor",
+    "password": "654321",
+    "email": "igor@gmail.com",
+    "language": "ua"
+  }
+]
