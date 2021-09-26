@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Smartphone",
+    "price": "100",
+    "quantity": "3"
+  },
+  {
+    "id": "3",
+    "name": "Desktop",
+    "price": "200",
+    "quantity": "8"
+  },
+  {
+    "id": "18",
+    "name": "Laptop",
+    "price": "250",
+    "quantity": "4"
+  },
+  {
+    "id": "22",
+    "name": "Tablet",
+    "price": "180",
+    "quantity": "3"
+  }
+]
